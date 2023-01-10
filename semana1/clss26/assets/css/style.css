@@ -1,0 +1,45 @@
+.body1{
+    background-color: rgba(80, 156, 154, 0.514);
+}
+.titulo{
+    font-family: 'Abel';font-size: 22px;
+    margin-bottom: 5%;
+    margin-top: 10%;
+    font-size: 50px;
+ text-align: center;
+}
+.fort{
+    
+
+    border: solid black 2px;
+    border-radius: 10px;
+    font-family: 'Coming Soon';
+    padding-top: 20px;
+    text-align: center;
+    font-size: 25px;
+}
+.bot{ margin-left:2% ;
+    font-family: 'Annie Use Your Telescope';font-size: 45px;
+background-color: rgba(0, 100, 62, 0.404);
+    margin-bottom: 2%;
+    border: solid black 2px;
+    border-radius: 5px;
+font-size:30px ;
+
+}
+.bot:hover{
+    font-family: 'Annie Use Your Telescope';font-size: 45px;
+    background-color: rgba(3, 235, 146, 0.705);
+        margin-bottom: 2%;
+        border: solid black 2px;
+        border-radius: 5px;
+    font-size:30px ;
+    
+    }
+.parrafo{
+    font-family: 'Annie Use Your Telescope';font-size: 40px;
+    text-align: center;
+}
+.resultado{
+    font-family: 'Bubbler One';font-size: 30px;
+}

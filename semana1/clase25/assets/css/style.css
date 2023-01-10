@@ -1,0 +1,39 @@
+.body1{
+    background-color: rgba(32, 105, 103, 0.712);
+}
+.titulo{
+    margin-bottom: 5%;
+    margin-top: 10%;
+    font-size: 50px;
+ text-align: center;
+}
+.fort{
+
+    border: solid black 2px;
+    border-radius: 10px;
+    font-family: 'Coming Soon';
+    padding-top: 20px;
+    text-align: center;
+    font-size: 25px;
+}
+.bot{
+background-color: rgba(0, 100, 62, 0.404);
+    margin-bottom: 5%;
+    border: solid black 2px;
+    border-radius: 5px;
+font-size:30px ;
+
+}
+.bot:hover{
+    background-color: rgba(3, 235, 146, 0.705);
+        margin-bottom: 5%;
+        border: solid black 2px;
+        border-radius: 5px;
+    font-size:30px ;
+    
+    }
+.parrafo{
+    font-family: 'Coming Soon';
+    font-size: 25px;
+    text-align: center;
+}
